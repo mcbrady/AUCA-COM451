@@ -8,6 +8,6 @@ int main(void){
   unsigned int numCores = std::thread::hardware_concurrency();
 
   printf("num CPU cores on this machine: %d\n", numCores);
-
+  prinit("Hello world");
   return 0;
 }
