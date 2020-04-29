@@ -9,5 +9,6 @@ int main(void){
 
   printf("num CPU cores on this machine: %d\n", numCores);
   prinit("Hello world");
+  printt("Hello world");
   return 0;
 }
