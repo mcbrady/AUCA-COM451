@@ -3,6 +3,8 @@
 #include <stdio.h>
 #include <thread>
 
+//comment for zara
+
 int main(void){
 
   unsigned int numCores = std::thread::hardware_concurrency();
